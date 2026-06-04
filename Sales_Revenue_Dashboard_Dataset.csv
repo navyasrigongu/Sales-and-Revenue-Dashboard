@@ -1,0 +1,201 @@
+Order ID,Order Date,Product Name,Category,Quantity,Unit Price,Revenue,Customer Name,Region
+ORD0001,2025-11-24,Laptop,Electronics,1,55000,55000,Customer_36,South
+ORD0002,2025-04-25,Smartphone,Electronics,1,25000,25000,Customer_70,North
+ORD0003,2025-10-30,Gaming Keyboard,Accessories,1,3500,3500,Customer_4,North
+ORD0004,2025-04-22,Smartphone,Electronics,5,25000,125000,Customer_78,North
+ORD0005,2025-10-15,Smartphone,Electronics,5,25000,125000,Customer_54,South
+ORD0006,2025-08-18,Mouse,Accessories,3,1200,3600,Customer_1,South
+ORD0007,2025-12-24,Gaming Keyboard,Accessories,3,3500,10500,Customer_36,South
+ORD0008,2025-04-21,Desk Lamp,Furniture,3,1500,4500,Customer_14,North
+ORD0009,2025-07-14,Laptop,Electronics,3,55000,165000,Customer_45,East
+ORD0010,2025-01-23,Office Chair,Furniture,4,8000,32000,Customer_69,North
+ORD0011,2025-07-13,Laptop,Electronics,5,55000,275000,Customer_38,East
+ORD0012,2025-10-23,Smartphone,Electronics,1,25000,25000,Customer_6,South
+ORD0013,2025-05-29,Laptop,Electronics,2,55000,110000,Customer_13,West
+ORD0014,2025-05-23,Gaming Keyboard,Accessories,3,3500,10500,Customer_21,East
+ORD0015,2025-07-01,Smartphone,Electronics,3,25000,75000,Customer_10,South
+ORD0016,2025-10-01,Office Chair,Furniture,2,8000,16000,Customer_21,West
+ORD0017,2025-07-14,Headphones,Electronics,5,2000,10000,Customer_29,East
+ORD0018,2025-01-29,Smartphone,Electronics,1,25000,25000,Customer_41,West
+ORD0019,2025-05-18,Laptop,Electronics,2,55000,110000,Customer_73,East
+ORD0020,2025-04-19,Office Chair,Furniture,4,8000,32000,Customer_51,West
+ORD0021,2025-03-15,Headphones,Electronics,2,2000,4000,Customer_32,East
+ORD0022,2025-10-27,Gaming Keyboard,Accessories,5,3500,17500,Customer_52,East
+ORD0023,2025-04-23,Smartphone,Electronics,5,25000,125000,Customer_64,North
+ORD0024,2025-01-25,Desk Lamp,Furniture,1,1500,1500,Customer_20,South
+ORD0025,2025-12-15,Gaming Keyboard,Accessories,5,3500,17500,Customer_9,West
+ORD0026,2025-07-15,Mouse,Accessories,4,1200,4800,Customer_68,East
+ORD0027,2025-10-11,Desk Lamp,Furniture,1,1500,1500,Customer_15,East
+ORD0028,2025-11-25,Headphones,Electronics,1,2000,2000,Customer_38,West
+ORD0029,2025-03-22,Gaming Keyboard,Accessories,1,3500,3500,Customer_34,South
+ORD0030,2025-09-17,Laptop,Electronics,3,55000,165000,Customer_65,South
+ORD0031,2025-03-20,Headphones,Electronics,2,2000,4000,Customer_70,North
+ORD0032,2025-11-03,Headphones,Electronics,4,2000,8000,Customer_3,North
+ORD0033,2025-07-05,Desk Lamp,Furniture,3,1500,4500,Customer_31,North
+ORD0034,2025-05-04,Mouse,Accessories,1,1200,1200,Customer_11,West
+ORD0035,2025-02-05,Desk Lamp,Furniture,5,1500,7500,Customer_17,South
+ORD0036,2025-12-04,Gaming Keyboard,Accessories,5,3500,17500,Customer_22,East
+ORD0037,2025-09-28,Desk Lamp,Furniture,5,1500,7500,Customer_55,South
+ORD0038,2025-10-04,Desk Lamp,Furniture,2,1500,3000,Customer_40,West
+ORD0039,2025-12-10,Office Chair,Furniture,3,8000,24000,Customer_57,West
+ORD0040,2025-03-03,Smartphone,Electronics,2,25000,50000,Customer_9,East
+ORD0041,2025-01-11,Mouse,Accessories,5,1200,6000,Customer_30,South
+ORD0042,2025-01-04,Laptop,Electronics,1,55000,55000,Customer_30,North
+ORD0043,2025-01-17,Desk Lamp,Furniture,3,1500,4500,Customer_10,South
+ORD0044,2025-05-23,Office Chair,Furniture,4,8000,32000,Customer_28,South
+ORD0045,2025-10-20,Mouse,Accessories,4,1200,4800,Customer_32,West
+ORD0046,2025-07-28,Smartphone,Electronics,1,25000,25000,Customer_13,West
+ORD0047,2025-07-01,Gaming Keyboard,Accessories,4,3500,14000,Customer_60,North
+ORD0048,2025-12-11,Office Chair,Furniture,1,8000,8000,Customer_8,West
+ORD0049,2025-06-23,Desk Lamp,Furniture,1,1500,1500,Customer_32,South
+ORD0050,2025-04-08,Mouse,Accessories,4,1200,4800,Customer_18,West
+ORD0051,2025-04-04,Headphones,Electronics,4,2000,8000,Customer_32,North
+ORD0052,2025-08-15,Desk Lamp,Furniture,5,1500,7500,Customer_13,North
+ORD0053,2025-11-30,Mouse,Accessories,1,1200,1200,Customer_12,South
+ORD0054,2025-03-27,Gaming Keyboard,Accessories,4,3500,14000,Customer_62,South
+ORD0055,2025-07-25,Laptop,Electronics,2,55000,110000,Customer_49,North
+ORD0056,2025-07-19,Headphones,Electronics,4,2000,8000,Customer_37,West
+ORD0057,2025-12-23,Office Chair,Furniture,5,8000,40000,Customer_63,South
+ORD0058,2025-04-08,Headphones,Electronics,2,2000,4000,Customer_8,North
+ORD0059,2025-06-10,Laptop,Electronics,1,55000,55000,Customer_75,West
+ORD0060,2025-09-15,Desk Lamp,Furniture,5,1500,7500,Customer_21,North
+ORD0061,2025-09-18,Laptop,Electronics,2,55000,110000,Customer_9,North
+ORD0062,2025-12-12,Desk Lamp,Furniture,2,1500,3000,Customer_52,North
+ORD0063,2025-10-19,Smartphone,Electronics,5,25000,125000,Customer_77,North
+ORD0064,2025-11-14,Laptop,Electronics,4,55000,220000,Customer_75,East
+ORD0065,2025-05-14,Smartphone,Electronics,3,25000,75000,Customer_31,East
+ORD0066,2025-07-22,Smartphone,Electronics,3,25000,75000,Customer_59,East
+ORD0067,2025-02-07,Laptop,Electronics,4,55000,220000,Customer_80,North
+ORD0068,2025-02-07,Mouse,Accessories,2,1200,2400,Customer_65,East
+ORD0069,2025-03-09,Headphones,Electronics,1,2000,2000,Customer_32,East
+ORD0070,2025-05-26,Smartphone,Electronics,4,25000,100000,Customer_70,East
+ORD0071,2025-11-10,Desk Lamp,Furniture,5,1500,7500,Customer_2,East
+ORD0072,2025-12-06,Laptop,Electronics,2,55000,110000,Customer_34,North
+ORD0073,2025-02-24,Office Chair,Furniture,5,8000,40000,Customer_20,East
+ORD0074,2025-05-25,Mouse,Accessories,2,1200,2400,Customer_44,South
+ORD0075,2025-12-18,Office Chair,Furniture,3,8000,24000,Customer_65,West
+ORD0076,2025-05-09,Desk Lamp,Furniture,1,1500,1500,Customer_12,West
+ORD0077,2025-05-22,Laptop,Electronics,1,55000,55000,Customer_43,South
+ORD0078,2025-11-23,Headphones,Electronics,2,2000,4000,Customer_57,West
+ORD0079,2025-10-15,Laptop,Electronics,1,55000,55000,Customer_10,South
+ORD0080,2025-10-07,Laptop,Electronics,3,55000,165000,Customer_75,South
+ORD0081,2025-08-09,Smartphone,Electronics,1,25000,25000,Customer_40,East
+ORD0082,2025-01-21,Headphones,Electronics,2,2000,4000,Customer_32,North
+ORD0083,2025-07-01,Desk Lamp,Furniture,5,1500,7500,Customer_53,South
+ORD0084,2025-05-02,Desk Lamp,Furniture,2,1500,3000,Customer_23,West
+ORD0085,2025-01-13,Smartphone,Electronics,3,25000,75000,Customer_53,South
+ORD0086,2025-05-17,Smartphone,Electronics,1,25000,25000,Customer_49,North
+ORD0087,2025-08-29,Smartphone,Electronics,2,25000,50000,Customer_59,East
+ORD0088,2025-06-06,Desk Lamp,Furniture,2,1500,3000,Customer_29,North
+ORD0089,2025-12-04,Smartphone,Electronics,4,25000,100000,Customer_43,East
+ORD0090,2025-02-05,Desk Lamp,Furniture,3,1500,4500,Customer_45,West
+ORD0091,2025-12-14,Desk Lamp,Furniture,5,1500,7500,Customer_43,North
+ORD0092,2025-03-01,Headphones,Electronics,2,2000,4000,Customer_75,East
+ORD0093,2025-01-20,Laptop,Electronics,5,55000,275000,Customer_56,East
+ORD0094,2025-06-10,Gaming Keyboard,Accessories,5,3500,17500,Customer_66,North
+ORD0095,2025-07-17,Mouse,Accessories,2,1200,2400,Customer_33,North
+ORD0096,2025-12-29,Gaming Keyboard,Accessories,1,3500,3500,Customer_67,South
+ORD0097,2025-07-06,Gaming Keyboard,Accessories,1,3500,3500,Customer_43,East
+ORD0098,2025-12-06,Desk Lamp,Furniture,1,1500,1500,Customer_39,East
+ORD0099,2025-12-08,Gaming Keyboard,Accessories,3,3500,10500,Customer_52,East
+ORD0100,2025-10-11,Smartphone,Electronics,2,25000,50000,Customer_54,West
+ORD0101,2025-12-13,Office Chair,Furniture,2,8000,16000,Customer_79,East
+ORD0102,2025-07-27,Mouse,Accessories,1,1200,1200,Customer_39,East
+ORD0103,2025-04-18,Gaming Keyboard,Accessories,5,3500,17500,Customer_78,East
+ORD0104,2025-08-27,Gaming Keyboard,Accessories,4,3500,14000,Customer_28,West
+ORD0105,2025-03-28,Office Chair,Furniture,1,8000,8000,Customer_37,East
+ORD0106,2025-02-17,Desk Lamp,Furniture,2,1500,3000,Customer_40,South
+ORD0107,2025-04-12,Smartphone,Electronics,1,25000,25000,Customer_6,South
+ORD0108,2025-09-01,Mouse,Accessories,1,1200,1200,Customer_59,West
+ORD0109,2025-11-19,Mouse,Accessories,2,1200,2400,Customer_50,West
+ORD0110,2025-07-24,Smartphone,Electronics,2,25000,50000,Customer_1,North
+ORD0111,2025-08-06,Smartphone,Electronics,2,25000,50000,Customer_67,West
+ORD0112,2025-01-26,Mouse,Accessories,2,1200,2400,Customer_16,West
+ORD0113,2025-03-10,Desk Lamp,Furniture,4,1500,6000,Customer_68,East
+ORD0114,2025-08-15,Mouse,Accessories,5,1200,6000,Customer_55,West
+ORD0115,2025-03-23,Office Chair,Furniture,4,8000,32000,Customer_58,East
+ORD0116,2025-05-07,Desk Lamp,Furniture,3,1500,4500,Customer_67,West
+ORD0117,2025-11-17,Smartphone,Electronics,3,25000,75000,Customer_57,North
+ORD0118,2025-05-27,Smartphone,Electronics,3,25000,75000,Customer_43,East
+ORD0119,2025-10-04,Laptop,Electronics,2,55000,110000,Customer_20,South
+ORD0120,2025-07-16,Office Chair,Furniture,2,8000,16000,Customer_28,North
+ORD0121,2025-08-01,Gaming Keyboard,Accessories,3,3500,10500,Customer_70,West
+ORD0122,2025-08-01,Laptop,Electronics,2,55000,110000,Customer_54,West
+ORD0123,2025-10-27,Office Chair,Furniture,1,8000,8000,Customer_74,West
+ORD0124,2025-09-02,Laptop,Electronics,3,55000,165000,Customer_39,West
+ORD0125,2025-08-03,Mouse,Accessories,5,1200,6000,Customer_78,South
+ORD0126,2025-09-07,Smartphone,Electronics,3,25000,75000,Customer_56,West
+ORD0127,2025-01-15,Gaming Keyboard,Accessories,3,3500,10500,Customer_52,South
+ORD0128,2025-08-28,Smartphone,Electronics,5,25000,125000,Customer_69,North
+ORD0129,2025-07-21,Mouse,Accessories,5,1200,6000,Customer_4,North
+ORD0130,2025-11-26,Gaming Keyboard,Accessories,2,3500,7000,Customer_60,South
+ORD0131,2025-01-26,Headphones,Electronics,4,2000,8000,Customer_42,South
+ORD0132,2025-08-21,Headphones,Electronics,3,2000,6000,Customer_49,East
+ORD0133,2025-08-04,Headphones,Electronics,1,2000,2000,Customer_61,North
+ORD0134,2025-10-04,Laptop,Electronics,3,55000,165000,Customer_29,North
+ORD0135,2025-11-30,Laptop,Electronics,1,55000,55000,Customer_32,South
+ORD0136,2025-01-11,Mouse,Accessories,2,1200,2400,Customer_31,South
+ORD0137,2025-08-31,Office Chair,Furniture,1,8000,8000,Customer_73,South
+ORD0138,2025-08-27,Office Chair,Furniture,3,8000,24000,Customer_48,South
+ORD0139,2025-11-07,Mouse,Accessories,1,1200,1200,Customer_21,East
+ORD0140,2025-02-25,Mouse,Accessories,1,1200,1200,Customer_40,West
+ORD0141,2025-07-23,Office Chair,Furniture,2,8000,16000,Customer_10,South
+ORD0142,2025-02-22,Office Chair,Furniture,3,8000,24000,Customer_77,North
+ORD0143,2025-10-17,Desk Lamp,Furniture,1,1500,1500,Customer_45,West
+ORD0144,2025-12-05,Headphones,Electronics,1,2000,2000,Customer_65,East
+ORD0145,2025-01-07,Desk Lamp,Furniture,4,1500,6000,Customer_63,North
+ORD0146,2025-08-10,Headphones,Electronics,4,2000,8000,Customer_20,West
+ORD0147,2025-04-01,Office Chair,Furniture,5,8000,40000,Customer_35,West
+ORD0148,2025-08-27,Gaming Keyboard,Accessories,5,3500,17500,Customer_35,East
+ORD0149,2025-05-06,Desk Lamp,Furniture,1,1500,1500,Customer_36,West
+ORD0150,2025-05-05,Desk Lamp,Furniture,4,1500,6000,Customer_73,West
+ORD0151,2025-06-22,Laptop,Electronics,4,55000,220000,Customer_42,South
+ORD0152,2025-09-07,Smartphone,Electronics,3,25000,75000,Customer_34,East
+ORD0153,2025-05-24,Mouse,Accessories,3,1200,3600,Customer_72,North
+ORD0154,2025-09-22,Smartphone,Electronics,1,25000,25000,Customer_31,West
+ORD0155,2025-09-08,Mouse,Accessories,2,1200,2400,Customer_61,West
+ORD0156,2025-08-18,Desk Lamp,Furniture,1,1500,1500,Customer_12,East
+ORD0157,2025-04-24,Gaming Keyboard,Accessories,2,3500,7000,Customer_40,East
+ORD0158,2025-08-31,Mouse,Accessories,5,1200,6000,Customer_45,West
+ORD0159,2025-10-09,Headphones,Electronics,3,2000,6000,Customer_59,East
+ORD0160,2025-06-06,Headphones,Electronics,2,2000,4000,Customer_16,South
+ORD0161,2025-06-11,Laptop,Electronics,5,55000,275000,Customer_24,South
+ORD0162,2025-04-21,Office Chair,Furniture,4,8000,32000,Customer_36,East
+ORD0163,2025-02-21,Desk Lamp,Furniture,2,1500,3000,Customer_38,South
+ORD0164,2025-07-04,Smartphone,Electronics,3,25000,75000,Customer_2,South
+ORD0165,2025-05-21,Laptop,Electronics,1,55000,55000,Customer_71,East
+ORD0166,2025-12-24,Smartphone,Electronics,4,25000,100000,Customer_14,North
+ORD0167,2025-10-21,Headphones,Electronics,4,2000,8000,Customer_62,West
+ORD0168,2025-06-24,Smartphone,Electronics,1,25000,25000,Customer_33,West
+ORD0169,2025-02-28,Desk Lamp,Furniture,1,1500,1500,Customer_52,West
+ORD0170,2025-02-07,Mouse,Accessories,1,1200,1200,Customer_20,South
+ORD0171,2025-10-16,Headphones,Electronics,1,2000,2000,Customer_32,North
+ORD0172,2025-10-13,Desk Lamp,Furniture,4,1500,6000,Customer_78,South
+ORD0173,2025-09-25,Gaming Keyboard,Accessories,4,3500,14000,Customer_57,East
+ORD0174,2025-10-29,Gaming Keyboard,Accessories,3,3500,10500,Customer_73,North
+ORD0175,2025-11-09,Office Chair,Furniture,1,8000,8000,Customer_27,South
+ORD0176,2025-05-16,Office Chair,Furniture,1,8000,8000,Customer_21,South
+ORD0177,2025-03-30,Mouse,Accessories,1,1200,1200,Customer_21,North
+ORD0178,2025-07-29,Gaming Keyboard,Accessories,5,3500,17500,Customer_61,East
+ORD0179,2025-01-17,Smartphone,Electronics,3,25000,75000,Customer_37,West
+ORD0180,2025-02-06,Office Chair,Furniture,2,8000,16000,Customer_34,South
+ORD0181,2025-08-06,Laptop,Electronics,5,55000,275000,Customer_29,South
+ORD0182,2025-05-17,Desk Lamp,Furniture,2,1500,3000,Customer_10,North
+ORD0183,2025-03-26,Desk Lamp,Furniture,3,1500,4500,Customer_77,East
+ORD0184,2025-08-13,Laptop,Electronics,4,55000,220000,Customer_39,West
+ORD0185,2025-05-20,Mouse,Accessories,5,1200,6000,Customer_64,West
+ORD0186,2025-02-11,Mouse,Accessories,1,1200,1200,Customer_56,East
+ORD0187,2025-11-06,Headphones,Electronics,1,2000,2000,Customer_12,South
+ORD0188,2025-12-12,Desk Lamp,Furniture,5,1500,7500,Customer_76,North
+ORD0189,2025-12-11,Desk Lamp,Furniture,3,1500,4500,Customer_74,North
+ORD0190,2025-03-31,Gaming Keyboard,Accessories,5,3500,17500,Customer_57,East
+ORD0191,2025-04-03,Mouse,Accessories,4,1200,4800,Customer_63,North
+ORD0192,2025-08-29,Headphones,Electronics,4,2000,8000,Customer_43,East
+ORD0193,2025-12-10,Laptop,Electronics,2,55000,110000,Customer_43,West
+ORD0194,2025-12-22,Gaming Keyboard,Accessories,3,3500,10500,Customer_52,North
+ORD0195,2025-08-21,Laptop,Electronics,3,55000,165000,Customer_33,East
+ORD0196,2025-03-01,Desk Lamp,Furniture,4,1500,6000,Customer_66,North
+ORD0197,2025-12-03,Desk Lamp,Furniture,5,1500,7500,Customer_60,West
+ORD0198,2025-01-28,Smartphone,Electronics,5,25000,125000,Customer_47,West
+ORD0199,2025-11-17,Gaming Keyboard,Accessories,1,3500,3500,Customer_27,East
+ORD0200,2025-10-09,Smartphone,Electronics,3,25000,75000,Customer_57,West
